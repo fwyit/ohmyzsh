@@ -1,3 +1,3 @@
 [submodule "completions"]
-	path = plugins/fwy
+	path = custom/plugins/fwy
 	url = git@github.com:fwyit/zsh-completions.git
